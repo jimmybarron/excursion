@@ -1,6 +1,20 @@
+body {
+    background-color: black;
+}
+
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 50px;
     color: white;
     text-align: center;
+}
+
+.downloadP {
+    font-size: 16px;
+    text-align: center;
+}
+
+.downloadCta {
+       color: aquamarine;
+       text-decoration: underline;
 }
